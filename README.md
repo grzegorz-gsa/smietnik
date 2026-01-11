@@ -1,2 +1,2 @@
 # smietnik
-Testowe repo
+Wszystko jak leci
